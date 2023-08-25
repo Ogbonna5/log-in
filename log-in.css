@@ -43,3 +43,16 @@ p {
     padding-left: 1rem;
     padding-right: 1rem;
 }
+label {
+    font-family: Snap ITC;
+}
+button {
+    font-family: Snap ITC;
+}
+input {
+    font-family: Snap ITC;
+    outline: none;
+}
+input:invalid {
+    border: 1px red solid;
+}
